@@ -21,7 +21,7 @@ allprojects {
 ```
 dependencies {
 
-	        implementation 'com.github.pkd234:PerfectLibrary:1.0'
+	         implementation 'com.github.pkd234:PerfectLibrary:1.01'
 
 }
 
