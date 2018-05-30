@@ -28,6 +28,8 @@ dependencies {
 ```
 # Usage
 ## Toast Generator
+![toast](https://user-images.githubusercontent.com/10796550/40734463-2737f782-6456-11e8-8f3e-62c7fdc826a8.JPG)
+
 Helps you to genrate various type of toast like success toast ,error toast,info toast with just one method to use toast generator simply call:
 
 ```
